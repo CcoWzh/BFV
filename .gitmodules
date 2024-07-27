@@ -1,0 +1,3 @@
+[submodule ".\\3rdparty\\flint"]
+	path = .\\3rdparty\\flint
+	url = https://github.com/flintlib/flint.git
